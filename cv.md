@@ -3,7 +3,7 @@
 
 1. Klimentsi Savanovich
 2. **My contact Info**
-    - Email: klimsava96@mail.ru and klimsava96@gmail.----------
+    - Email: klimsava96@mail.ru and klimsava96@gmail.com
     - mobile number: +37529-337-66-83
     - Telegram/Whatsapp/Viber: Savanovich Klim
 3. **Summary**: My main goal is to become a full stack developer. I have been studying programming for 2 years. I learn something every day. I know at the moment html, css, sass, basis js, basis php, jquery and git. I go to my goal. I want to study the React.
@@ -81,11 +81,11 @@ example CSS:
 
 6. **Experience** 
 
-[velox](https://klimsava.github.io/velox/index.html)
-[Mini](https://klimsava.github.io/new2/index.html)
-[Uhtibox](https://klimsava.github.io/one/index.html)
-[Nambawan](https://klimsava.github.io/test/app/index.html)
+* [velox](https://klimsava.github.io/velox/index.html)
+* [Mini](https://klimsava.github.io/new2/index.html)
+* [Uhtibox](https://klimsava.github.io/one/index.html)
+* [Nambawan](https://klimsava.github.io/test/app/index.html)
 
-7. **Education**: I have a programming education. I graduated from college. I am currently studying at the university (BSUiR).
+7. **Education**: I have a programming education. I graduated from college. I am currently studying at the university (BSUIR).
 
 8. **English**: Last year I studied English with at courses. Now I go to courses and learn the language in applications.

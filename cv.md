@@ -80,11 +80,12 @@ example CSS:
 ```
 
 6. **Experience** 
----
 
 [velox](https://klimsava.github.io/velox/index.html)
 [Mini](https://klimsava.github.io/new2/index.html)
 [Uhtibox](https://klimsava.github.io/one/index.html)
 [Nambawan](https://klimsava.github.io/test/app/index.html)
+
 7. **Education**: I have a programming education. I graduated from college. I am currently studying at the university (BSUiR).
+
 8. **English**: Last year I studied English with at courses. Now I go to courses and learn the language in applications.

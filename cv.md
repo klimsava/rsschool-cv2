@@ -80,7 +80,6 @@
 	margin-top: 80px;
 }
 ```
-
 6. **Experience** 
 * [velox](https://klimsava.github.io/velox/index.html)
 * [Mini](https://klimsava.github.io/new2/index.html)

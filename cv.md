@@ -9,9 +9,8 @@
 3. **Summary**: My main goal is to become a full stack developer. I have been studying programming for 2 years. I learn something every day. I know at the moment html, css, sass, basis js, basis php, jquery and git. I go to my goal. I want to study the React.
 4.  **My skills**: html, css, sass, js, php, git, jquery.
 5.  **Code examples**: 
-
 example HTML:
-```
+```html
 <section class="banner">    
 	<div class="wrapper">   
 		<div class="banner-slider"> 
@@ -41,7 +40,7 @@ example HTML:
 </section>  
 ```
 example CSS:
-```
+```css
 .banner {
 	position: relative;
 	display: -webkit-box;
